@@ -1,6 +1,6 @@
 {
   "name": "@agarvin2002/medium-app-common",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Common module for medium-app client and server side",
   "main": "dist/index.js",
   "scripts": {
